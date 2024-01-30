@@ -171,5 +171,5 @@ Project is: _in progress_
 
 ## Contact
 Created by Gavin Dang - feel free to contact me!
-Email: gavin.dang.goldenowl@gmail.com
+Email: anhkhoalongha@gmail.com
 
